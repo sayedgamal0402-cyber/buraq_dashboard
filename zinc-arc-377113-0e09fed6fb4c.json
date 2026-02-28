@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zinc-arc-377113",
+  "private_key_id": "0e09fed6fb4c9ebc6897c8b59cee2d6cadd14662",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDEykeyuFr9u8r4\nk8C89sH8A0BVrYc3+X8a6QRFRvN7C7TKJRR3qDi0vjNkSu3aGpkROJTAj3v9hb/X\nofCkYBaIJXceKO73FKsAkRpAngEAfx3tQQhWXe+7dyQYjdCA3MxCvmtIEKx6o8O8\nSah3nNzgEidY2bM3FvnbUE9oR1eXqzRFlDFGDO/9WmqhDKtOU3feAKs+LChriJ1l\nN9oE39jJoE/Zb/6P4JqIusRBlqxb5A5mph60CwY3bLsyB7mRK5gRAyZywkN5o9kI\nD48XjK7fQP3BTaFWgWcAehRB1zemc6fZxXnvboNWWRRioBV0LwG1HJWSyx0PE7qL\nH3Y6SaEpAgMBAAECggEAB94viit5RdpHhfNAWj3CaT1HCfXnaVtCE/UbjNqGmxWP\ne6KKZDNXWxCctOaTBmyYUJoyxlUmR69ciXZJzQSjefuHfO71iO7sXFgw1MMMdrTe\nYTE/sFZOoq/jg1DONIy/ZO7Aks/J2ZhpF8LZJ7kfkpzfMlv34Jy8TiKynhB2JdPq\nTwnW2mRlBMPf80BaWKPqdHpWNu03J7TCsr26nnANxBE7bTBnGk3Ba2oVyHNwLh+Y\nmIH+pr9ohH48jfp1xCWJbW9W/zZqMq6lGXZvs9vn8XAcpyD/rczm131oNrXR5Zri\nZAE47ZBSxHsSznqPU9mHq/WTzGRX8tOddeU/OBaoYQKBgQDiPmBjiDkbbKOkfkts\nDqyuIk7+5R7TCOJgFEq2YDZIaO+fLlsnPNzllj9jzCq9dMgly0xOmfFIVNHFimDG\nCvPnypAYokwTgsoIpp5Vsiv/Mn/hiVnViyeCivr8kzeCChDPLwNq7ow1bTjjgjBO\njw7GgN+C1UrcsQnlVnlKujlIEQKBgQDerDRHQinESFQGxty9gL5M1VYb5W4ll86G\no+faRzgjWz5bSSD58GAJWAqP6cks9ge8iKHgP2qWZjtnW348Lb6U2TftZaJ6mRkY\nsWgfNTNfWxI94JfaqhnDM9d93ZDS8+w8/fBmUeCvMNQ/3l+gXGhnzjC83UnlibqR\n0M2hOJufmQKBgQDY8KsIhcUMsP2xa5Dyypd2WluZOyZ1gZ1gN9T0UAl9IXI0FwU8\n+LVwSMP78/g/ts18wBYpgJ/Gld6YJvporHP4nVnS5T1BsDX+WZaV4cUibdAF+eh0\nRXzbRl0o+BlPzksT/6atUJSNXnAgZ+PeUHsAiO7Jy7B/MhulF2gy6aKnoQKBgQDD\nJDMkh81GoQRSdBCbWqprd0Lha62d8G4j/JyB5IxEIACDy5DEuW3QgoGvIXkWl/6r\nsSn79leYurswlzQH1ScCF2M1/y3nNyiRRVg0kVEWLh/MbnlmPlAZi+M8AOKcnPvZ\nb8owQW0g2zAHUQCI7rLo1gBMY7oRGSSSCWVL9uobcQKBgQCQDV7r79HW4H1JRC9S\n3y2tAxaczG5NL80oVP6zDqMlTR4d3Z3vw3zRQ8KFnHxcCXudKNjOYosVt5L0lHLC\nqUEqFzwh70U+1lD5CwkuD04qxoF40+mUglM5vsuZ/c6U3eLPUvdz/wd9VyAn0r33\nnFCExNTPcGgqsMvfayFHNLQaow==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-sheets-access@zinc-arc-377113.iam.gserviceaccount.com",
+  "client_id": "107557909452550640776",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-sheets-access%40zinc-arc-377113.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
