@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zinc-arc-377113",
+  "private_key_id": "412e938f0d1943a201b7c6420d68b3b1b068b20b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDlDpoA1uoL/0hG\nX3xyXre4syLPwmkIfpRzeXq6xFUyy9+RhnTYLix57s7yua0kE8qNFzfzg5FmhDYZ\nyAjxRyPKvnXyiVPkSEjuyZ2z6UsgBmiJ1T/GYq/+8U1QSHp+DIcnrn1XCeBtluw+\nwZ14s0QM/CVTyYl62SVFAN2N/mXBtI1+JQrDBpOyWM853rOng7iPXndn8GA51boU\nV85LikA0RXNAqk1TIck+v+MATS8JkTGaoMFEKkiOw7NZDcH/x4O0RQX49geGMzIo\ntKnySjKo5eAxv3EEbwqW6XNmI/N/jSyUkebW18iR2s6/ODtA6vCSvCiyRgUtl8Wl\nMmU8uv3tAgMBAAECggEABESgjP8e2ai2QDgbmbFMdhYXF3egEmbyvYYYHy51B0nH\njtl1CD7araOhWozS05caJpqLUdpz6qJFtHbxkmFeIt3SqnlxmpGC6Q7RBUmwZdaI\nuyIXRUs7IU0owM62Qu6ufrL10JngAzAVPdlzZYzdlJUG3bKl1lKr1Zx9rwgm/ZQm\nfdPVL6ILgWnCKo4vpiGcvgEty+g1WgAP5dQS2Doi/GEQ7SzfEqtP35BJEu7EtV+R\negQhDpawCncf6eOkQkCVZbAWvjRo23RiQuYvXKyImznVKXAuPpnYEPdxO2BkGWLw\nQoJfRRXgzGfz3i9EOL199jmZmMazAN6ANsA7TBXMpwKBgQD8m32EnyVxzPhsvQgf\n+QSVkdfVH4uJs680zxbtgvZ2KO0LZ6Sf0k8OXwLiP9PYTsRQeLDJ1EOlrbDMxbkp\ndpoMyjX7EXxbOntzEyHhTCXR2MvwqKpU6BGF84I9ZZywQA0PXR/1+L7Ed7uIAhAd\nDa/6nBvDBKoiyKZHW58m7KCOjwKBgQDoIiQUYpT4gHOVrYEtavBvsUUhKgfYZuXe\nkDRDfme4mzbeqRfLTEOBSQMP8IxrxLMyEbQQuPFM7nSvpegUEYI7E4ja+dJEGbQ9\n/oZTWj2vcRRMjpDlcRMP+xlTHAjkeDLwBCBnbOX+fLP9gyoPLMG20Uxn1d3lWY1f\n+ittw46pwwKBgB2aGxtvivPLEVGs1Ubp55+fd6uCBtgcNmv52LX8ouU15pFvk9sm\nyhzlBXF+CVVP5bGIcy8zsLm5oP5eLVSukV7uU2UYp3oJYG4bz9yXD9eHkF6jZVKN\n33/TCXAoeDQvTVh/kT9B5xke7tsBYuIEuJqlsJsp8MYivVmfYwcss6QBAoGAKhGN\n4lffUY3N5LFV+MopmsRQl+sLEu/K9uPBZP3yhCU083NHiaNflH2L3YalnB5Ar3E/\n5cvuhxer8+0oOwLVTCmFItIlhgv2e0m2RELVbQccO6eWoM42Oy4xb7tj7SvPZ2oI\nCVZV9CHbaLUtmSRuUthpdWPv29G36k3nMvQ+1YsCgYAsY8UxipSZHMtKk8YALaH3\nKH6XuL28q7GTDhyXj36z7KFIWSxXenf/n84pkdUejYJfQJD7hGjjBjvCVmOKw18u\nWDbMHk6UrQVyF5UwnMQ+kKWLmvImCTMGlsKa/Bl2n0HfAtZLt1ubBObzmPsKyYKj\nMjZ5jvr4QLTifegCtV+sHQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "buraq2004@zinc-arc-377113.iam.gserviceaccount.com",
+  "client_id": "112818853999481089588",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/buraq2004%40zinc-arc-377113.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
